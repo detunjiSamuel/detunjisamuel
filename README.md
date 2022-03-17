@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi everyone 👋 
+
+### 🧬 bio
+- I'm a recent graduate of Covenant University<br>
+- Mostly backend stuff<br>
+- Working on my Data structures & Algorithms game
+
+### 📫 contact info:
+- 📧 An <a href="mailto:samuel.adetunji@stu.cu.edu.ng" style="vertical-align: baseline;"> email address</a>, pls don't spam ‼️ ⚠️ 
+- <img alt="LinkedIn" style="vertical-align: baseline;" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/><a href="https://www.linkedin.com/in/samuel-adetunji-404249174/" style="vertical-align: baseline;"></a>  For those who don't like writing emails.
+<br>
 
 <!--
 **detunjiSamuel/detunjisamuel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
