@@ -1,4 +1,4 @@
-### Hi everyone 👋 
+### Hi everyone 👋 I'm Samuel
 
 ### 🧬 bio
 - I'm a recent graduate of Covenant University<br>
@@ -7,7 +7,7 @@
 
 ### 📫 contact info:
 - 📧 An <a href="mailto:samuel.adetunji@stu.cu.edu.ng" style="vertical-align: baseline;"> email address</a>, pls don't spam ‼️ ⚠️ 
-- <img alt="LinkedIn" style="vertical-align: baseline;" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/><a href="https://www.linkedin.com/in/samuel-adetunji-404249174/" style="vertical-align: baseline;"></a>  For those who don't like writing emails.
+- [![Linkedin Badge](https://img.shields.io/badge/-Adetunji%20Samuel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samuel-adetunji-404249174/)](https://www.linkedin.com/in/samuel-adetunji-404249174/) For those who don't like writing emails.
 <br>
 
 <!--
