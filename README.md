@@ -1,9 +1,5 @@
 ### Hi everyone 👋 I'm Samuel
 
-### 🧬 bio
-- I'm a recent graduate of Covenant University<br>
-- Mostly backend stuff<br>
-- Working on my Data structures & Algorithms game
 
 ### 📫 contact info:
 - 📧 An <a href="mailto:samuel.adetunji@stu.cu.edu.ng" style="vertical-align: baseline;"> email address</a>, pls don't spam ‼️ ⚠️ 
